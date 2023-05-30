@@ -1,7 +1,7 @@
 # hello-world
 A testing repository
-*Italic*
-**Bold**
+*Italic* \n
+**Bold** /n
 
 > My block quote
 > 1
