@@ -1,8 +1,6 @@
 # hello-world
 A testing repository
-
 *Italic*
-
 **Bold**
 
 > My block quote
